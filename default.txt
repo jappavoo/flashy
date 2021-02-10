@@ -1,0 +1,84 @@
+Adafruit Bluefruit Neopixel Test
+--------------------------------
+
+Please connect using the Bluefruit Connect LE application
+Connected to iPhone
+Please select the 'Neopixels' tab, click 'Connect' and have fun
+Command: Version check
+Send Response: Neopixel v2.0
+Command: Setup
+	size: 8x4
+	stride: 8
+	pixelType 52
+	componentsValue: 52
+	is400Hz: 0
+	components: 3
+Send Response: OK
+Command: ClearColor
+ClearColor completed
+	clear (255, 0, 0)
+Send Response: OK
+Command: SetBrightness
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetBrightness
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
+Command: SetPixel
+	color (128, 255, 0)
+Send Response: OK
